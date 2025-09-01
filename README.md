@@ -19,7 +19,6 @@ Bem-vindo(a) ao meu cantinho no GitHub 👩‍💻✨
 <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
----
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
