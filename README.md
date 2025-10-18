@@ -1,6 +1,6 @@
-# 🌟 Olá, eu sou a Ana Carolina!  
+# 🌟 Hello, I'm Ana Carolina, but you can call me Ana!  
 
-Bem-vindo(a) ao meu cantinho no GitHub 👩‍💻✨  
+Welcome to my place on github, here you will find some projects developed in courses, at college or as personal study👩‍💻✨  
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -20,7 +20,7 @@ Bem-vindo(a) ao meu cantinho no GitHub 👩‍💻✨
 
 </div>
 
-## 📊 Estatísticas do GitHub  
+## 📊 GitHub statistics  
 <div align="center">
 
 ![Athena's GitHub stats](https://github-readme-stats.vercel.app/api?username=acp-athena&show_icons=true&theme=radical)  
