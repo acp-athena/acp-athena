@@ -1,6 +1,6 @@
 # 🌟 Hello, I'm Ana Carolina, but you can call me Ana!  
 
-Welcome to my place on github, here you will find some projects developed in courses, at college or as personal study. I'm a backend intern at Vericode, working on the Dott.Ai team.
+Welcome to my place on github, here you will find some projects developed in courses, at college or as personal study. I'm a backend intern at Vericode, working on the dott.ai team.
 I enjoy always learning new things and developing projects. Besides, when I'm not coding something, I'm probably playing a game or watching some cool gameplay. In the future, I want to explore the world of cybersecurity; for now, my focus is on exploring the backend with Java and mastering the language.👩‍💻✨  
 
 ## 🛠️ Tecnologias & Ferramentas
